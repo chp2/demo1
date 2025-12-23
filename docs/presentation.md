@@ -23,7 +23,7 @@ style: |
 <!-- _class: lead -->
 
 # 🃏 Poker-Mate
-## 실시간 홀덤 전략 코칭 & 컴패니언 AI
+## 실시간 홀덤 전략 Coaching & Companion AI
 
 <br>
 
